@@ -1,0 +1,10 @@
+.modelY{
+    background-image: url(../images/Homepage-Model-Y-Desktop-Global.jpeg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+  }
